@@ -1,0 +1,6 @@
+package com.qspiders.hibernate.DAO;
+
+public class StudentDAO {
+
+	
+}

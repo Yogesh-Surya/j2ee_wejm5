@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;EmployeeCRUD.java&apos; to &apos;revise/src/com.jspiders.jdbccrudoperations&apos;&#x0D;&#x0A;- Original project: &apos;revise&apos;&#x0D;&#x0A;- Destination element: &apos;revise/src/com.jspiders.jdbccrudoperations&apos;&#x0D;&#x0A;- Original element: &apos;revise.EmployeeCRUD.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.jspiders.jdbccrudoperations" element1="/src&lt;revise{EmployeeCRUD.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1685030311112" units="1" version="1.0"/>
+</session>

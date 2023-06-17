@@ -1,0 +1,14 @@
+package com.qspiders.hibernate.DAO;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+public class StudentDAO {
+
+	private int id;
+	private String sname;
+	private String semail;
+	private String smarks;
+	private String saddress;
+
+}

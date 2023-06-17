@@ -1,0 +1,8 @@
+package com.qspiders.hibernate.DAO;
+
+public class EmployeeInsertDAO {
+
+	public static void main(String[] args) {
+		
+	}
+}

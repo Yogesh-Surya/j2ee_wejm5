@@ -1,0 +1,14 @@
+package com.jspiders.filehandling;
+
+import java.io.File;
+
+public class File2 {
+	public static void main(String[] args) {
+			File file = new File("C:\\jwejm5\\yogesh.txt");
+			if (file.exists()) {
+				System.out.println("File is already exists");
+			} else {
+
+			}
+	}
+}

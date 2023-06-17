@@ -1,0 +1,11 @@
+package com.qspiders.hibernate.DAO;
+
+public class StudentDAO {
+
+	private int id ;
+	private String sname;
+	private String semail;
+	private String smarks;
+	private String saddress;
+	
+}

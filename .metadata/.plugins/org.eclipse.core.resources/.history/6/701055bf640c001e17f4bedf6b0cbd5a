@@ -1,0 +1,8 @@
+package com.jspiders.springMVC.pojo;
+
+import javax.persistence.Entity;
+
+@Entity
+public class StudentPOJO {
+
+}

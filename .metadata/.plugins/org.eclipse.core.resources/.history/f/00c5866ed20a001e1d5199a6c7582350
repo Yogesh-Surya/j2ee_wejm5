@@ -1,0 +1,8 @@
+package com.jspiders.springcore.bean;
+
+public class AdhaarBean {
+
+	int id;
+	long aadhar_no;
+	String date_of_issue;
+}

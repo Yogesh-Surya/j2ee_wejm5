@@ -1,0 +1,17 @@
+package com.qspiders.hibernate.dto;
+
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Table(name = "emp")
+public class EmployeeDTO {
+	@Id
+	@Column(name = "empno")
+	private int id;
+	@Column(name="ename")
+	private int name;
+	
+	
+	
+}

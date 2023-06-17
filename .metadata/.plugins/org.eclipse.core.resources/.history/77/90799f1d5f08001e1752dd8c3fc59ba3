@@ -1,0 +1,17 @@
+package com.qspiders.hibernate.DAO;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.EntityTransaction;
+
+public class EmployeeInsertDAO {
+	private static final EntityManagerFactory ENTITY_MANAGER_FACTORY;
+
+	public static void openConnection() {
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+}

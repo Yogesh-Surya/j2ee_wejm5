@@ -1,0 +1,10 @@
+package com.qspiders.hibernate.dto;
+
+public class StudentDTO {
+	private int id;
+	private String sname;
+	private String semail;
+	private String smarks;
+	private String saddress;
+
+}

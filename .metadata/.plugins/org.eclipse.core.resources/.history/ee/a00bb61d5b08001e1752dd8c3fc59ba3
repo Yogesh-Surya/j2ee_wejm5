@@ -1,0 +1,10 @@
+package com.qspiders.hibernate.dto;
+
+import javax.persistence.Table;
+
+@Table(name = "emp")
+public class EmployeeDTO {
+	public static void main(String[] args) {
+
+	}
+}

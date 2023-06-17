@@ -1,0 +1,22 @@
+package com.jspiders.filehandling;
+
+import java.io.File;
+import java.io.IOException;
+
+public class File1 {
+	public static void main(String[] args) {
+		File file = new File("Demo.txt");
+		if (file.exists()) {
+			System.out.println("file already exists");
+		} else {
+			try {
+				System.out.println("file created successfully");
+				file.createNewFile();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+
+	}
+
+}

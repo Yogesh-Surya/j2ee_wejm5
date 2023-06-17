@@ -1,0 +1,8 @@
+<html>
+<body>
+	<div align="center">
+		<h2>This is Spring MVC project</h2>
+	</div>
+
+</body>
+</html>

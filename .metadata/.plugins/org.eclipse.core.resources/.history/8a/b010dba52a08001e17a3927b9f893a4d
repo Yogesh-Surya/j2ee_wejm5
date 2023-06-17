@@ -1,0 +1,13 @@
+package com.qspiders.hibernate.dto;
+
+import javax.persistence.Id;
+
+public class StudentDTO {
+	@Id
+	private int id;
+	private String sname;
+	private String semail;
+	private String smarks;
+	private String saddress;
+
+}
